@@ -1,0 +1,10 @@
+body {
+    /*background-image: url("sirum_graffiti-wall-art_66.jpg");*/
+    /*background-position: center center;*/
+    /*background-repeat: no-repeat;*/
+    /*background-attachment: fixed;*/
+    /*background-size: cover;*/
+    /*background-color: blanchedalmond;*/
+    background: no-repeat center/90% url("sirum_graffiti-wall-art_66.jpg");
+    background-attachment: fixed;
+}
